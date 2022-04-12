@@ -1,0 +1,17 @@
+## Aplicação criada pela Data Science Academy no curso de Python Fundamentos Para Análise de Dados 3.0
+
+---
+
+### Para treinar o modelo, execute:
+
+```
+  python deep_reinforcement_learning.py
+```
+
+
+### Para executar a app, digite:
+
+```
+  python app.py
+```
+
